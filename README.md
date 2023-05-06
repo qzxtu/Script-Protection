@@ -1,4 +1,4 @@
-# Advanced Script Protection
+# Script Protection
 
 This script adds advanced protection measures such as encryption and obfuscation to a script loaded from a URL.
 
@@ -21,3 +21,11 @@ This script adds advanced protection measures such as encryption and obfuscation
 8. The final script is built using `string.format` and includes code to decrypt and deobfuscate the original script.
 9. The final script is stored in the clipboard using `setclipboard`.
 10. The time taken to execute the script is printed.
+
+## Author
+
+[qzxtu](https://github.com/qzxtu)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
